@@ -1,0 +1,43 @@
+
+.col-sm img{
+    height: 200px;
+    width: 200px;
+}
+.headshowtimes img{
+    margin: auto;
+    padding-top: 2%;
+    width: 100%;
+    text-align: center;
+}
+.container2{
+    text-align: center;
+    
+}
+.hr{
+    border: solid;
+    width: 100%;
+}
+.containerhead{
+    background-color: black;
+    
+}
+.rowalert{
+    display:block;
+    /* justify-content:center; */
+  }
+  
+  .rowalert>*{
+    display:block;
+    height:50px ;
+    width:100% ;
+    justify-content:center;
+    align-items:left;
+    border: 1px solid black;
+    margin: 10px;
+}
+.containerfooter{
+    background-color: black;
+    margin-top: 0;
+    padding-top: 0;
+    color: white;
+}
